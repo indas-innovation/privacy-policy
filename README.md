@@ -32,5 +32,6 @@ privacy-policy/
 ## Contact
 
 For questions or concerns regarding any of the privacy policies in this repository, please reach out at:  
+**Email: wecare@indusanalytics.in**  
 **Email: ujjwal.indusanalytics@gmail.com**
 
