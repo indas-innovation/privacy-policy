@@ -15,10 +15,14 @@ Having all policies in one place ensures:
 
 ```
 privacy-policy/
+├── goodluck-dvr/
+│   └── index.html        # Privacy policy for the GoodLuck DVR App
 ├── gph-app/
 │   └── index.html        # Privacy policy for the GPH App
 ├── indus-hrms-app/
 │   └── index.html        # Privacy policy for the Indus HRMS App
+├── satguru-app/
+│   └── index.html        # Privacy policy for the Satguru App
 └── README.md
 ```
 
@@ -26,8 +30,10 @@ privacy-policy/
 
 | App | Description | Policy |
 |-----|-------------|--------|
+| **GoodLuck DVR** | Daily Visit Report app for field sales teams — tracks visits, routes, attendance, and expenses for schools and booksellers. | [View Policy](./goodluck-dvr/index.html) |
 | **GPH App** | Monitors and assists GPH riders during school visits — tracks routes, school visits, and distance traveled. | [View Policy](./gph-app/index.html) |
 | **Indus HRMS App** | HR management system for employees and HR admins — handles attendance, leave, payroll, and employee records. | [View Policy](./indus-hrms-app/index.html) |
+| **Satguru App** | Mobile dashboard and push notification app for users of the main Satguru website. | [View Policy](./satguru-app/index.html) |
 
 ## Contact
 
