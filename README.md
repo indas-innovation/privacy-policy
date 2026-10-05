@@ -17,6 +17,8 @@ Having all policies in one place ensures:
 privacy-policy/
 ├── goodluck-dvr/
 │   └── index.html        # Privacy policy for the GoodLuck DVR App
+├── coreasy-app/
+│   └── index.html        # Privacy policy for the CorEasy App
 ├── gph-app/
 │   └── index.html        # Privacy policy for the GPH App
 ├── indus-crm-app/
@@ -33,6 +35,7 @@ privacy-policy/
 | App | Description | Policy |
 |-----|-------------|--------|
 | **GoodLuck DVR** | Daily Visit Report app for field sales teams — tracks visits, routes, attendance, and expenses for schools and booksellers. | [View Policy](./goodluck-dvr/index.html) |
+| **CorEasy App** | App for simplifying day-to-day core operations — manages user records and entries within the app. | [View Policy](./coreasy-app/index.html) |
 | **GPH App** | Monitors and assists GPH riders during school visits — tracks routes, school visits, and distance traveled. | [View Policy](./gph-app/index.html) |
 | **Indus CRM App** | Customer relationship management app for sales and support teams — manages leads, contacts, deals, and follow-up activities. | [View Policy](./indus-crm-app/index.html) |
 | **Indus HRMS App** | HR management system for employees and HR admins — handles attendance, leave, payroll, and employee records. | [View Policy](./indus-hrms-app/index.html) |
